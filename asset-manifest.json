@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20Tic-Tac-Teo-game/static/css/main.845ad700.css",
+    "main.js": "/%20Tic-Tac-Teo-game/static/js/main.bb374541.js",
+    "index.html": "/%20Tic-Tac-Teo-game/index.html",
+    "main.845ad700.css.map": "/%20Tic-Tac-Teo-game/static/css/main.845ad700.css.map",
+    "main.bb374541.js.map": "/%20Tic-Tac-Teo-game/static/js/main.bb374541.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.845ad700.css",
+    "static/js/main.bb374541.js"
+  ]
+}
